@@ -197,8 +197,5 @@ Backend: http://localhost:5000
 
 ---
 
-## 📧 Contact
 
-Built by: Golf4Good Dev Team  
-For: Digital Heroes Selection Process  
 
