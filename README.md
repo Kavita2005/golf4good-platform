@@ -6,7 +6,7 @@ A full-stack subscription-based golf platform combining performance tracking, mo
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
