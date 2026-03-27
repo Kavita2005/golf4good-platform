@@ -1,4 +1,4 @@
-# ⛳ Golf4Good — Golf Charity Subscription Platform
+# Golf4Good — Golf Charity Subscription Platform
 
 A full-stack subscription-based golf platform combining performance tracking, monthly prize draws, and charitable giving.
 
@@ -20,7 +20,7 @@ A full-stack subscription-based golf platform combining performance tracking, mo
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 golf-charity-platform/
@@ -64,7 +64,7 @@ golf-charity-platform/
 
 ---
 
-## ⚙️ Local Development Setup
+## Local Development Setup
 
 ### 1. Clone and install
 
@@ -119,7 +119,7 @@ Backend: http://localhost:5000
 
 ---
 
-## 🌍 Deployment
+## Deployment
 
 ### Frontend → Vercel
 
@@ -145,7 +145,7 @@ Backend: http://localhost:5000
 
 ---
 
-## 🔑 Demo Credentials
+## Demo Credentials
 
 | Role | Email | Password |
 |------|-------|----------|
@@ -154,7 +154,7 @@ Backend: http://localhost:5000
 
 ---
 
-## ✅ Feature Checklist
+## Feature Checklist
 
 ### User Features
 - [x] Signup & login (JWT auth)
@@ -187,7 +187,7 @@ Backend: http://localhost:5000
 
 ---
 
-## 🏗️ Architecture Decisions
+## Architecture Decisions
 
 1. **JWT over Supabase Auth** — Full control over token payload and custom auth flows
 2. **Express backend** — Stripe webhooks require raw body access (not possible with Supabase Edge Functions directly)
